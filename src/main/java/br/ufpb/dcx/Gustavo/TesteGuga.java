@@ -5,5 +5,6 @@ public class TesteGuga {
         IO.println("Opa");
         String nome = IO.readln("Digite seu nome  -->  ");
         IO.println("Olá Sr(a) " + nome);
+        IO.println("TESTE");
     }
 }
